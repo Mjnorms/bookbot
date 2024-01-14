@@ -1,2 +1,2 @@
 # Bookbot by Mjnorms
-  #Bookbot is my first project from boot.dev
+  #Bookbot is a practice project that sorts a book .txt into a dict, then reports the char count. 
